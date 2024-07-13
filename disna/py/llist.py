@@ -1,0 +1,2 @@
+color =[]
+print(len(color))
